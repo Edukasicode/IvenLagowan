@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### Welcome halaman profile saya..........
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=2200&color=6DAF24&vCenter=true&width=408&height=66&lines=Hey+%F0%9F%91%8B;Welcome+to+my+Github+Page+%F0%9F%91%BE.;%F0%9F%94%A5)](https://git.io/typing-svg)#### Welcome halaman profile saya..........
+
 
 
 <h1 align="center">Hi 👋, I'm Chua Lagowan</h1>
@@ -12,6 +13,28 @@
 ## 🌏 Sosmed
 1. Facebook: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] https://www.instagram.com/tupacopase/ <br>
 2. Instagram: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) https://www.linkedin.com/in/iven-lagowan-iven-b0a8a6219/
+
+<br>
+<br>
+<br>
+<br>
+
+
+![Python](https://img.shields.io/badge/%20-Python-brightgreen)
+![Django](https://img.shields.io/badge/%20-Django%20-green)
+![DRF](https://img.shields.io/badge/%20-DRF-yellow)
+![unittest](https://img.shields.io/badge/%20-unittest-%2328870b)
+![Pytest](https://img.shields.io/badge/%20-Pytest-%2328870b)
+![Psql](https://img.shields.io/badge/%20-PostgreSql%20-blue)
+![Redis](https://img.shields.io/badge/%20-Redis%20-red)
+![Pytorch](https://img.shields.io/badge/%20-Pytorch%20-orange)
+![HTML](https://img.shields.io/badge/%20-HTML-red)
+![CSS](https://img.shields.io/badge/%20-CSS-blue)
+![Bootstrap](https://img.shields.io/badge/%20-Bootstrap%20-%237952b4)
+![Selenium](https://img.shields.io/badge/%20-Selenium-lightgrey)
+![Rust](https://img.shields.io/badge/%20-Rust-black)
+![Axum](https://img.shields.io/badge/%20-Axum-white)
+
 
 
 
